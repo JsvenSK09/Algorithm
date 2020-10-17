@@ -1,0 +1,6 @@
+
+Andre 2 10
+Bebek 2 11
+Keju 60 2
+Andre 60 4
+Andre 60 0
