@@ -12,10 +12,10 @@ This program is using C and can be ran in any compilers that support C language,
 
 ## Screenshot of Program
 #### Login Screen
-![Login](./capture/Login.png)
+![Login](./capture/Login.PNG)
 
 #### User1 Screen
-![User1](./capture/User1.png)
+![User1](./capture/User1.PNG)
 
 #### User2 Screen
-![User2](./capture/User2.png)
+![User2](./capture/User2.PNG)
