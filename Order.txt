@@ -1,6 +1,6 @@
 
-Andre 2 10
-Bebek 2 11
+Doritos 2 10
+Indomie 2 11
 Keju 60 2
-Andre 60 4
-Andre 60 0
+Mentega 60 4
+Milkita 60 0
